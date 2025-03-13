@@ -27,3 +27,20 @@ An application with the following layers:
 │── README.md
 └── tsconfig.json
 ```
+
+### Requirements
+
+Node >= **lts/gallium**
+
+### Init
+
+```bash
+npm install
+```
+
+### Run
+
+```bash
+npm run build
+npm run start
+```
